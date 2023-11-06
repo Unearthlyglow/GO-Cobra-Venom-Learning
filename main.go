@@ -36,3 +36,16 @@ func main() {
 	cmd.Execute()
 
 }
+
+
+/*
+1. Clear is better than clever
+2. A little copying is better than a little dependency 
+3. Concurrency is not paralleism
+4. Channels orchestrate; mutexes serialize 
+5. Don’t communicate by sharing memory, share memory by communicating 
+6. Make the zero value useful 
+7. The bigger the interface, the weaker the abstraction
+8. Errors are values
+9. Don’t just check errors, handle them gracefully.
+*/
